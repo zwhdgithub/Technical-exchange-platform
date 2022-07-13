@@ -1,0 +1,79 @@
+Date : 2022-07-05 09:40:13
+Directory : d:\前端\vue\hmtt
+Total : 33 files,  11686 codes, 427 comments, 118 blanks, all 12231 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          2 |      9,617 |          0 |          2 |      9,619 |
+| Vue                |         14 |      1,544 |        286 |         77 |      1,907 |
+| JavaScript         |         13 |        471 |        126 |         26 |        623 |
+| Markdown           |          1 |         25 |          0 |         12 |         37 |
+| HTML               |          1 |         16 |          1 |          1 |         18 |
+| JSON with Comments |          1 |          8 |         12 |          0 |         20 |
+| Less               |          1 |          5 |          2 |          0 |          7 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                   | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                      |         33 |     11,686 |        427 |        118 |     12,231 |
+| public                                                 |          1 |         16 |          1 |          1 |         18 |
+| src                                                    |         23 |      1,961 |        408 |         98 |      2,467 |
+| src\api                                                |          2 |        230 |         78 |          5 |        313 |
+| src\components                                         |          1 |        115 |         13 |          6 |        134 |
+| src\router                                             |          1 |         42 |          2 |          3 |         47 |
+| src\store                                              |          1 |         23 |          1 |          3 |         27 |
+| src\styles                                             |          1 |          5 |          2 |          0 |          7 |
+| src\utils                                              |          3 |         64 |         34 |          6 |        104 |
+| src\views                                              |         12 |      1,416 |        262 |         68 |      1,746 |
+| src\views\ArticleDetail                                |          2 |        408 |         26 |         21 |        455 |
+| src\views\Chat                                         |          1 |        175 |         14 |          7 |        196 |
+| src\views\Home                                         |          3 |        360 |         33 |         19 |        412 |
+| src\views\Layout                                       |          1 |         30 |          2 |          4 |         36 |
+| src\views\Login                                        |          1 |         71 |         12 |          3 |         86 |
+| src\views\Search                                       |          2 |        236 |         27 |          8 |        271 |
+| src\views\User                                         |          2 |        136 |        148 |          6 |        290 |
++--------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                               | language           | code       | comment    | blank      | total      |
++--------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| d:\前端\vue\hmtt\.eslintrc.js                            | JavaScript         |         17 |          0 |          1 |         18 |
+| d:\前端\vue\hmtt\README.en.md                            | Markdown           |         25 |          0 |         12 |         37 |
+| d:\前端\vue\hmtt\babel.config.js                         | JavaScript         |         12 |          0 |          1 |         13 |
+| d:\前端\vue\hmtt\jsconfig.json                           | JSON with Comments |          8 |         12 |          0 |         20 |
+| d:\前端\vue\hmtt\lint-staged.config.js                   | JavaScript         |          3 |          0 |          1 |          4 |
+| d:\前端\vue\hmtt\package-lock.json                       | JSON               |      9,570 |          0 |          1 |      9,571 |
+| d:\前端\vue\hmtt\package.json                            | JSON               |         47 |          0 |          1 |         48 |
+| d:\前端\vue\hmtt\postcss.config.js                       | JavaScript         |          8 |          3 |          1 |         12 |
+| d:\前端\vue\hmtt\public\index.html                       | HTML               |         16 |          1 |          1 |         18 |
+| d:\前端\vue\hmtt\src\App.vue                             | Vue                |         13 |         11 |          3 |         27 |
+| d:\前端\vue\hmtt\src\api\index.js                        | JavaScript         |        188 |         78 |          3 |        269 |
+| d:\前端\vue\hmtt\src\api\report.js                       | JavaScript         |         42 |          0 |          2 |         44 |
+| d:\前端\vue\hmtt\src\components\ArticleItem.vue          | Vue                |        115 |         13 |          6 |        134 |
+| d:\前端\vue\hmtt\src\main.js                             | JavaScript         |         53 |          5 |          4 |         62 |
+| d:\前端\vue\hmtt\src\router\index.js                     | JavaScript         |         42 |          2 |          3 |         47 |
+| d:\前端\vue\hmtt\src\store\index.js                      | JavaScript         |         23 |          1 |          3 |         27 |
+| d:\前端\vue\hmtt\src\styles\cover.less                   | Less               |          5 |          2 |          0 |          7 |
+| d:\前端\vue\hmtt\src\utils\date.js                       | JavaScript         |         10 |          6 |          2 |         18 |
+| d:\前端\vue\hmtt\src\utils\request.js                    | JavaScript         |         44 |         24 |          3 |         71 |
+| d:\前端\vue\hmtt\src\utils\token.js                      | JavaScript         |         10 |          4 |          1 |         15 |
+| d:\前端\vue\hmtt\src\views\ArticleDetail\CommentList.vue | Vue                |        255 |         23 |          7 |        285 |
+| d:\前端\vue\hmtt\src\views\ArticleDetail\myIndex.vue     | Vue                |        153 |          3 |         14 |        170 |
+| d:\前端\vue\hmtt\src\views\Chat\myIndex.vue              | Vue                |        175 |         14 |          7 |        196 |
+| d:\前端\vue\hmtt\src\views\Home\ArticleList.vue          | Vue                |        100 |         20 |          4 |        124 |
+| d:\前端\vue\hmtt\src\views\Home\ChannelEdit.vue          | Vue                |        164 |          8 |         11 |        183 |
+| d:\前端\vue\hmtt\src\views\Home\myIndex.vue              | Vue                |         96 |          5 |          4 |        105 |
+| d:\前端\vue\hmtt\src\views\Layout\myIndex.vue            | Vue                |         30 |          2 |          4 |         36 |
+| d:\前端\vue\hmtt\src\views\Login\myIndex.vue             | Vue                |         71 |         12 |          3 |         86 |
+| d:\前端\vue\hmtt\src\views\Search\SearchResult.vue       | Vue                |         69 |          7 |          4 |         80 |
+| d:\前端\vue\hmtt\src\views\Search\myIndex.vue            | Vue                |        167 |         20 |          4 |        191 |
+| d:\前端\vue\hmtt\src\views\User\UserEdit.vue             | Vue                |         16 |        142 |          1 |        159 |
+| d:\前端\vue\hmtt\src\views\User\myIndex.vue              | Vue                |        120 |          6 |          5 |        131 |
+| d:\前端\vue\hmtt\vue.config.js                           | JavaScript         |         19 |          3 |          1 |         23 |
+| Total                                                  |                    |     11,686 |        427 |        118 |     12,231 |
++--------------------------------------------------------+--------------------+------------+------------+------------+------------+

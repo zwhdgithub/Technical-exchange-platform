@@ -2,7 +2,7 @@
   <div>
     <van-nav-bar fixed>
       <template #left>
-        <img class="logo" />
+        <div class="title-1">技术交流</div>
       </template>
       <template #right>
         <van-icon name="search" size="18" color="white" @click="$router.push('/search')" />
@@ -98,5 +98,8 @@ export default {
 .edit_wrap {
   width: 100%;
   height: 100%;
+}
+.title-1 {
+  color: #fff;
 }
 </style>
